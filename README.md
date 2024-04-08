@@ -40,7 +40,4 @@ The dataset reveals that a small handful of microbial species (also called opera
 
   ![image](https://user-images.githubusercontent.com/120543690/228077023-f328f606-b61c-4a6a-b3f8-01f1c5d9d189.png)
 
-## Credits
-- Plotly
-- D3 Library
-- North Carolina State University - The Public Science Lab
+
